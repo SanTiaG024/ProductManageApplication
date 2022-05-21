@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name":"AGV",
+        "code": "FFGT1" 
+    },
+    {
+        "id": 2,
+        "name": "Fox",
+        "code": "TTHJI5"
+    },
+    {
+        "id": 3,
+        "name": "Yamaha",
+        "code": "TTHJI7"
+    },
+
+    {
+        "id": 4,
+        "name": "Bajaj",
+        "code": "TTHJI8"
+    },
+    {
+        "id": 5,
+        "name": "Italika",
+        "code": "TTHJI9"
+    }
+   
+]

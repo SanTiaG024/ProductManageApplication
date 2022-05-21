@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "name": "Casco AGV K1 Negro",
+        "barcode": "98249179",
+        "price": "4500",
+        "amount": "10",
+        "brand": "AGV",
+        "supplier": "Superbikes Imports",
+        "image": "https://dainese-cdn.thron.com/delivery/public/image/dainese/9c346c4a-ca9e-423d-b38e-e8682f275c8c/ramfdh/std/615x615/k1-mono-ece2205-black.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Casco AGV K3S-V",
+        "barcode": "49090201",
+        "price": "8000",
+        "amount": "2",
+        "brand": "AGV",
+        "supplier": "AGVMotoSportsMx",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51CpIJgqyFL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingFOURANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA6%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Casco Corsa R",
+        "barcode": "98229179",
+        "price": "6000",
+        "amount": "5",
+        "brand": "AGV",
+        "supplier": "Superbikes Imports", 
+        "image": "https://www.tradeinn.com/f/13679/136790461/agv-casco-integral-corsa-r-replica-mplk.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Chaleco Fox Legion Tag",
+        "barcode": "10912031",
+        "price": "600",
+        "amount": "20",
+        "brand": "FOX",
+        "supplier": "Superbikes Imports",
+        "image": "http://cdn.shopify.com/s/files/1/0603/7585/9459/products/25791001_1.jpg?v=1643153849"
+    },
+    {
+        "id": 5,
+        "name": "Traje 180 Lux Negro",
+        "barcode": "101918331",
+        "price": "3500",
+        "amount": "20",
+        "brand": "FOX",
+        "supplier": "<Fox S.A de C.V",
+        "image": "https://www.lifex.mx/img/productos/inventariox800/180-lux-negro.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Guantes Fox PawTector",
+        "barcode": "1099181",
+        "price": "500",
+        "amount": "20",
+        "brand": "FOX",
+        "supplier": "Fox S.A de C.V",
+        "image": "http://cdn.shopify.com/s/files/1/0685/3887/products/21737-110_grande.jpg?v=1627942232"
+    },
+    {
+        "id": 7,
+        "name": "Google FoxMain Street",
+        "barcode": "3923891",
+        "price": "500",
+        "amount": "20",
+        "brand": "FOX",
+        "supplier": "Fox S.A de C.V",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_750575-MLM47122980052_082021-O.webp"
+    },
+    {
+        "id": 8,
+        "name": "Monoshock ns200",
+        "barcode": "672321",
+        "price": "5000",
+        "amount": "4",
+        "brand": "Bajaj",
+        "supplier": "Consecionaria Bikerhood",
+        "image": "https://www.colombiamotos.cl/wp-content/uploads/2021/03/Monoshock_NS200-removebg-preview.png"
+    },
+    {
+        "id": 9,
+        "name": "Pulsar ns200",
+        "barcode": "3827918",
+        "price": "50000",
+        "amount": "10",
+        "brand": "Bajaj",
+        "supplier": "Consecionaria Bikerhood",
+        "image": "https://d270piq2kcnzho.cloudfront.net/-/media/mexico/images/pulsar/product/pulsar-ns-200/ns-200-1640-x-997-con-luz.png?h=997&la=es-MX&w=1640&hash=1622027DA31C5DB9ED5420D1AFD8FEE5"
+    },
+    {
+        "id": 10,
+        "name": "Moto DM200",
+        "barcode": "322321",
+        "price": "35000",
+        "amount": "4",
+        "brand": "Italika",
+        "supplier": "Elektra",
+        "image": "https://elektra.vtexassets.com/arquivos/ids/3281374/34005141-d1.jpg?v=637744073821300000"
+    }
+    
+]
